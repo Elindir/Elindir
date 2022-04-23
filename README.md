@@ -13,3 +13,4 @@ https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/u
 My next lesson: Diccionaries https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-2-4-Diccionarios.ipynb
 Python sets: https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-2-3-Conjuntos.ipynb
 https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-1-Condiciones.ipynb
+https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-2-Bucles.ipynb
