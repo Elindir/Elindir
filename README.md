@@ -15,3 +15,4 @@ Python sets: https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitivec
 https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-1-Condiciones.ipynb
 https://jupyterlab-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-2-Bucles.ipynb
 https://jupyterlab-6-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-3-Funciones.ipynb
+https://jupyterlab-3-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0101ES/PY0101ES-3-4-Clases.ipynb
